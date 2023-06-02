@@ -7,8 +7,8 @@ This is a small snapshot of our data table which has been cut due to the large s
 
 Additional information is also included such as a brief description of the post purpose, and the actors aim. This also includes statistics regarding  the frequencies of specific keywords within the post and thread, respectively.
 
-Finally, each attack has a unique ID to provide an easy identification within the table. This is done with the aim to define the frequency and popularity of discussions related to ransomware
+Finally, each attack has a unique ID to provide an easy identification within the table. This is done with the aim to define the frequency and popularity of discussions related to ransomware.
 
 ## RawDatasheetOfDreadPostsAndStatistics
 
-This is a link to the full raw data collected during our collection and analysis of posts in the Dread forum that are related to ransomware. For more information and analysis please refer to the appropriate paper
+This is a link to the full raw data collected during our collection and analysis of posts in the Dread forum that are related to ransomware. For more information and analysis please refer to the appropriate paper.
